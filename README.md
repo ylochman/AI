@@ -1,4 +1,4 @@
-# Artificial Intelligence | Practical works (labs) and implemented algorithms | IASA 7 sem (2017)
+# Artificial Intelligence | Practical works (labs) and implemented algorithms
 
 ### Labs
 	lab 1: Problem environment
@@ -6,11 +6,11 @@
 	lab 3: Greedy algorithm & A* search
 	lab 4: Problems with restrictions
 	lab 5: Frames
-  lab 6: Logical system
-  lab 7: Production system
+	lab 6: Logical system
+	lab 7: Production system
 
-### Algorithmns
-  1: Vacuum Cleaner Algorithm
-  2: Evolution Strategy
-  3: GeneticAlgorithm
-  4: Two-layer Neural Network
+### Algorithms
+	1: Vacuum Cleaner Algorithm
+	2: Evolution Strategy
+	3: Genetic Algorithm
+	4: Two-layer Neural Network
