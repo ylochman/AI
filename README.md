@@ -2,7 +2,9 @@
 
 ### Labs
 	lab 1: Problem environment
-	lab 2: Breadth-First Search, Depth-First Search, Depth-Limited Search, Iterative deepening depth-first search, Bidirectional search using networkx, googlemaps & plotly
+	lab 2: Breadth-First Search, Depth-First Search, Depth-Limited Search,
+	       Iterative deepening depth-first search, Bidirectional search
+	       using networkx, googlemaps & plotly
 	lab 3: Greedy algorithm & A* search
 	lab 4: Problems with restrictions
 	lab 5: Frames
